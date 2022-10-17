@@ -12,7 +12,7 @@
 ![GANTT](GANTT.png "gantt")
 
 ---
-##PERT
+## PERT
 ![PERT](PERT.png "pert")
 
 
