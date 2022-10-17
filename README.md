@@ -20,7 +20,7 @@ gantt
 ```
 
 ##PERT
-
+![PERT](PERT.png "pert")
 
 
 
