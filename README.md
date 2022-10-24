@@ -16,7 +16,7 @@
 ![PERT](PERT.png "pert")
 
 
-##DFD 
+## DFD 
 ![DFD](DFD.png "DFD")
 
 
