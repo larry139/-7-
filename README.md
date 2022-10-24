@@ -15,8 +15,3 @@
 ## PERT
 ![PERT](PERT.png "pert")
 
-
-## DFD 
-![DFD](DFD.png "DFD")
-
-
