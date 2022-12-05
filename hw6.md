@@ -1,3 +1,3 @@
 ## ERD
-![ERD](ERD圖.png "  ERD" )
+![ERD](ERD.png "ERD" )
 
