@@ -1,4 +1,3 @@
 ## ERD
-![ERD](ERD圖.pdf "  ERD" )
-![UML](UML.png "UML")
+![ERD](ERD圖.png "  ERD" )
 
